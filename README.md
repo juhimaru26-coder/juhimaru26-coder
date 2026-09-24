@@ -1,308 +1,529 @@
-<!-- ========================= -->
+<div align="center">
 
-<!--        HERO SECTION       -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=INITIALIZING+JUHI.DEV...;SYSTEM+ONLINE+%E2%80%A2+READY+TO+BUILD;WELCOME+TO+MY+DEVELOPER+LAB" />
 
-<!-- ========================= -->
+<br>
+
+# `JUHI // SYSTEM`
+
+### `Frontend Developer in Progress`
+
+`BUILDING • LEARNING • CREATING`
+
+<br>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&labelColor=09090b" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-8B5CF6?style=for-the-badge&labelColor=09090b" />
+
+<br><br>
+
+[ `EXPLORE PROJECTS ↓` ](https://github.com/juhimaru26-coder#-projects)
+
+</div>
+
+---
 
 <div align="center">
 
-# 💜 JUHI.DEV
+`01 // IDENTITY`
 
-### Building • Learning • Creating
+# `WHO AM I?`
 
-**Frontend Developer in Progress 🚀**
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Learning+JavaScript+%F0%9F%92%BB;Building+Real+Projects+%F0%9F%9A%80;Exploring+Web+Development+%F0%9F%8C%90;Turning+Ideas+into+Code+%E2%9C%A8" alt="Typing SVG" />
+<table>
+<tr>
+<td width="65%">
+
+### `> hello_world.exe`
+
+Hi, I'm **Juhi**.
+
+I'm currently learning **Web Development** and turning what I learn into real projects.
+
+I enjoy understanding how things work, experimenting with JavaScript, and building projects that help me improve my logic and problem-solving skills.
+
+**Currently focused on:**
+
+* JavaScript
+* DOM & Events
+* Async JavaScript
+* Tailwind CSS
+* Building real projects
+* Improving problem-solving
+
+</td>
+
+<td width="35%">
+
+```text
+┌────────────────────┐
+│  SYSTEM STATUS     │
+├────────────────────┤
+│                    │
+│  ● ONLINE          │
+│                    │
+│  JavaScript        │
+│  DOM               │
+│  Tailwind          │
+│  Web Development   │
+│                    │
+│  MODE              │
+│  BUILDING...       │
+│                    │
+└────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+`02 // STACK`
+
+# `TECH STACK`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode" />
+
+<br><br>
+
+`HTML` • `CSS` • `TAILWIND` • `JAVASCRIPT`
+`GIT` • `GITHUB` • `VSCODE`
+
+</div>
+
+---
+
+<div align="center">
+
+`03 // LAB`
+
+# `🧪 JUHI'S DEV LAB`
+
+### `EXPERIMENTS • PRACTICE • DEBUGGING`
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### `#01`
+
+## DOM
+
+`SELECTORS`
+`ELEMENTS`
+`MANIPULATION`
+
+**● COMPLETED**
+
+</td>
+
+<td align="center" width="50%">
+
+### `#02`
+
+## EVENTS
+
+`CLICK`
+`INPUT`
+`CHANGE`
+
+**● COMPLETED**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### `#03`
+
+## ASYNC JS
+
+`PROMISES`
+`ASYNC / AWAIT`
+`EVENT LOOP`
+
+**◐ LEARNING**
+
+</td>
+
+<td align="center">
+
+### `#04`
+
+## APIs
+
+`FETCH`
+`JSON`
+`SERVER DATA`
+
+**○ EXPLORING**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+`04 // PROJECTS`
+
+# `🚀 THINGS I'VE BUILT`
+
+### `REAL PROJECTS • REAL PRACTICE`
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+## `01 / PORTFOLIO`
+
+### 💻 Portfolio — CSS
+
+Personal portfolio website created while learning HTML & CSS.
+
+`HTML` `CSS`
+
+**[ LIVE ↗ ](YOUR_PORTFOLIO_LIVE_LINK)**
+**[ CODE ↗ ](YOUR_PORTFOLIO_GITHUB_LINK)**
+
+</td>
+
+<td width="50%">
+
+## `02 / TEACHER'S DAY`
+
+### 💜 Teacher's Day
+
+A creative Teacher's Day project.
+
+`HTML` `CSS` `TAILWIND`
+
+**[ LIVE ↗ ](https://juhimaru26-coder.github.io/Teacher-Day/)**
+**[ CODE ↗ ](YOUR_TEACHER_DAY_GITHUB_LINK)**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+## `03 / GAME`
+
+### 🎮 Tic Tac Toe
+
+A JavaScript game built with DOM interaction and game logic.
+
+`JAVASCRIPT` `DOM`
+
+**[ LIVE ↗ ](YOUR_TICTACTOE_LIVE_LINK)**
+**[ CODE ↗ ](YOUR_TICTACTOE_GITHUB_LINK)**
+
+</td>
+
+<td>
+
+## `04 / PRODUCTIVITY`
+
+### ✅ Todo App
+
+Todo application created to practice JavaScript and DOM logic.
+
+`JAVASCRIPT` `DOM`
+
+**[ LIVE ↗ ](YOUR_TODO_LIVE_LINK)**
+**[ CODE ↗ ](YOUR_TODO_GITHUB_LINK)**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+## `05 / LOGIC`
+
+### 🧮 Calculator
+
+Calculator created to practice events, buttons and JavaScript logic.
+
+`JAVASCRIPT` `DOM`
+
+**[ LIVE ↗ ](YOUR_CALCULATOR_LIVE_LINK)**
+**[ CODE ↗ ](YOUR_CALCULATOR_GITHUB_LINK)**
+
+</td>
+
+<td>
+
+## `06 / QUIZ`
+
+### 🧠 JavaScript Quiz
+
+Quiz application for practicing JavaScript and DOM concepts.
+
+`JAVASCRIPT` `DOM`
+
+**[ LIVE ↗ ](YOUR_QUIZ_LIVE_LINK)**
+**[ CODE ↗ ](YOUR_QUIZ_GITHUB_LINK)**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+`05 // BUILD PATH`
+
+# `🛤️ MY DEVELOPER JOURNEY`
+
+</div>
+
+```text
+                         ┌──────────────┐
+                         │  HTML / CSS  │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │   TAILWIND   │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │ JAVASCRIPT   │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │ DOM & EVENTS │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │   ASYNC JS   │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │    PROJECTS  │
+                         └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │   NEXT → 🚀  │
+                         └──────────────┘
+```
+
+---
+
+<div align="center">
+
+`06 // LEARNING`
+
+# `📡 CURRENTLY LEARNING`
+
+</div>
+
+<table align="center">
+<tr>
+<th>TOPIC</th>
+<th>STATUS</th>
+<th>MODE</th>
+</tr>
+
+<tr>
+<td>HTML / CSS</td>
+<td>🟢</td>
+<td>COMFORTABLE</td>
+</tr>
+
+<tr>
+<td>Tailwind CSS</td>
+<td>🟡</td>
+<td>PRACTICING</td>
+</tr>
+
+<tr>
+<td>JavaScript</td>
+<td>🟡</td>
+<td>LEARNING</td>
+</tr>
+
+<tr>
+<td>DOM & Events</td>
+<td>🟡</td>
+<td>PRACTICING</td>
+</tr>
+
+<tr>
+<td>Async JavaScript</td>
+<td>🟡</td>
+<td>LEARNING</td>
+</tr>
+
+<tr>
+<td>APIs</td>
+<td>🔵</td>
+<td>EXPLORING</td>
+</tr>
+
+<tr>
+<td>React</td>
+<td>⚪</td>
+<td>NEXT</td>
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+`07 // WORKFLOW`
+
+# `🧩 HOW I CODE`
+
+</div>
+
+```text
+                    ┌───────────┐
+                    │   THINK   │
+                    └─────┬─────┘
+                          ↓
+                    ┌───────────┐
+                    │   BUILD   │
+                    └─────┬─────┘
+                          ↓
+                    ┌───────────┐
+                    │   BREAK   │
+                    └─────┬─────┘
+                          ↓
+                    ┌───────────┐
+                    │   DEBUG   │
+                    └─────┬─────┘
+                          ↓
+                    ┌───────────┐
+                    │UNDERSTAND │
+                    └─────┬─────┘
+                          ↓
+                    ┌───────────┐
+                    │  REPEAT ↻ │
+                    └───────────┘
+```
+
+---
+
+<div align="center">
+
+`08 // TELEMETRY`
+
+# `📊 GITHUB ACTIVITY`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=juhimaru26-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=00F7FF&icon_color=8B5CF6&text_color=ffffff" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhimaru26-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=00F7FF&text_color=ffffff" />
+
+</div>
+
+---
+
+<div align="center">
+
+`09 // MISSION CONTROL`
+
+# `🎯 CURRENT MISSION`
+
+</div>
+
+```text
+┌────────────────────────────────────────────────┐
+│                                                │
+│  [✓] Learn Web Development Fundamentals       │
+│  [✓] Practice JavaScript                      │
+│  [✓] Build Real Projects                      │
+│  [◐] Improve Problem Solving                  │
+│  [ ] Build Bigger Applications                │
+│  [ ] Learn React                               │
+│  [ ] Explore APIs Deeply                      │
+│  [ ] Become a Better Developer                │
+│                                                │
+│                 STATUS: ACTIVE                 │
+│                                                │
+└────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+`10 // BEYOND CODE`
+
+# `🌱 BEYOND CODE`
+
+</div>
+
+```text
+$ cat beyond-code.txt
+
+> learning
+> creating
+> experimenting
+> exploring AI
+> building ideas
+
+STATUS: STILL CURIOUS.
+```
+
+---
+
+<div align="center">
+
+# `💭 A LITTLE NOTE`
+
+> I don't want to just learn how to write code.
+> **I want to understand why the code works.**
+
+</div>
+
+---
+
+<div align="center">
+
+`SYSTEM // END`
+
+<br>
+
+### `Let's build something cool.`
 
 <br>
 
 <a href="https://github.com/juhimaru26-coder">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="#things-ive-built">
-<img src="https://img.shields.io/badge/View-Projects-00F7FF?style=for-the-badge" />
-</a>
-
-</div>
-
----
-
-# 🧠 WHO AM I?
-
-Hi! I'm **Juhi** 👋
-
-I'm currently learning **Web Development** and turning what I learn into real projects.
-
-I enjoy understanding how things work, experimenting with JavaScript, and building small projects that help me improve my logic and problem-solving skills.
-
-### Currently focused on:
-
-* 💻 JavaScript
-* 🌐 DOM & Events
-* ⚡ Async JavaScript
-* 🎨 Tailwind CSS
-* 🧩 Building real projects
-* 🚀 Improving problem-solving
-
----
-
-# ⚡ TECH STACK
-
-<div align="center">
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
-
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-# 🧪 JUHI'S DEV LAB
-
-> A small space where I experiment, practice and break things while learning. 😄
-
-```text
-┌──────────────────────────────────────────┐
-│              🧪 DEV LAB                  │
-├──────────────────────────────────────────┤
-│                                          │
-│  🟢 DOM Playground                       │
-│  🟢 Event Listener Experiments           │
-│  🟢 JavaScript Logic Practice            │
-│  🟢 Array Method Experiments             │
-│  🟢 Promise & Async Experiments          │
-│  🟢 API Experiments                      │
-│                                          │
-└──────────────────────────────────────────┘
-```
-
----
-
-# 🚀 THINGS I'VE BUILT
-
-## 💻 Portfolio — CSS
-
-A personal portfolio website built while learning HTML and CSS.
-
-**Tech:** HTML • CSS
-
-[🔗 Live Demo](YOUR_PORTFOLIO_LIVE_LINK) • [💻 Source Code](YOUR_PORTFOLIO_GITHUB_LINK)
-
----
-
-## 💜 Teacher's Day
-
-A special Teacher's Day project created with HTML, CSS and Tailwind CSS.
-
-**Tech:** HTML • CSS • Tailwind CSS
-
-[🔗 Live Demo](https://juhimaru26-coder.github.io/Teacher-Day/) • [💻 Source Code](YOUR_TEACHER_DAY_GITHUB_LINK)
-
----
-
-## 🎮 Tic Tac Toe
-
-A JavaScript game with different playing modes and DOM-based interaction.
-
-**Tech:** HTML • Tailwind CSS • JavaScript • DOM
-
-[🔗 Live Demo](YOUR_TICTACTOE_LIVE_LINK) • [💻 Source Code](YOUR_TICTACTOE_GITHUB_LINK)
-
----
-
-## ✅ Todo App
-
-A Todo application created to practice JavaScript logic, DOM manipulation and user interaction.
-
-**Tech:** HTML • CSS • JavaScript • DOM
-
-[🔗 Live Demo](YOUR_TODO_LIVE_LINK) • [💻 Source Code](YOUR_TODO_GITHUB_LINK)
-
----
-
-## 🧮 Calculator
-
-A JavaScript calculator built to practice buttons, events, DOM manipulation and calculation logic.
-
-**Tech:** HTML • Tailwind CSS • JavaScript
-
-[🔗 Live Demo](YOUR_CALCULATOR_LIVE_LINK) • [💻 Source Code](YOUR_CALCULATOR_GITHUB_LINK)
-
----
-
-## 🧠 JavaScript Quiz
-
-A quiz project created to practice JavaScript logic, DOM manipulation and user interaction.
-
-**Tech:** HTML • CSS • JavaScript • DOM
-
-[🔗 Live Demo](YOUR_QUIZ_LIVE_LINK) • [💻 Source Code](YOUR_QUIZ_GITHUB_LINK)
-
----
-
-# 🛤️ MY DEVELOPER JOURNEY
-
-<div align="center">
-
-```text
-             HTML & CSS
-                  │
-                  ▼
-            Tailwind CSS
-                  │
-                  ▼
-             JavaScript
-                  │
-                  ▼
-            DOM & Events
-                  │
-                  ▼
-              Async JS
-                  │
-                  ▼
-          Real Projects
-                  │
-                  ▼
-               🚀 Next
-```
-
-</div>
-
-### My learning loop
-
-```text
-01 → Learn
-02 → Practice
-03 → Build
-04 → Break 😭
-05 → Debug
-06 → Understand
-07 → Build Again
-```
-
----
-
-# 📈 CURRENTLY LEARNING
-
-| Topic            | Status         |
-| ---------------- | -------------- |
-| HTML / CSS       | 🟢 Comfortable |
-| Tailwind CSS     | 🟡 Practicing  |
-| JavaScript       | 🟡 Learning    |
-| DOM & Events     | 🟡 Practicing  |
-| Async JavaScript | 🟡 Learning    |
-| APIs             | 🔵 Exploring   |
-| React            | ⚪ Next         |
-
-> These are learning stages, not skill percentages.
-
----
-
-# 🧩 HOW I CODE
-
-```text
-       💡 Think
-          ↓
-   🧩 Break the problem
-          ↓
-      ✍️ Write logic
-          ↓
-       🧪 Test
-          ↓
-      💥 Something breaks
-          ↓
-       🔍 Debug
-          ↓
-    🧠 Understand why
-          ↓
-       🚀 Build again
-```
-
----
-
-# 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=juhimaru26-coder&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhimaru26-coder&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 CURRENT MISSION
-
-```text
-☑ Learn the fundamentals of Web Development
-
-☑ Practice JavaScript
-
-☑ Build real projects
-
-☑ Improve problem solving
-
-☐ Build bigger applications
-
-☐ Learn React
-
-☐ Explore APIs deeply
-
-☐ Keep becoming a better developer
-```
-
----
-
-# 🌱 BEYOND CODE
-
-Apart from coding, I enjoy:
-
-* ✨ Learning new things
-* 🎨 Creating creative projects
-* 🤖 Exploring AI
-* 💡 Experimenting with web development
-
----
-
-# 💬 A LITTLE NOTE
-
-> I don't want to just learn how to write code.
->
-> **I want to understand why the code works.**
-
----
-
-# 📬 LET'S CONNECT
-
-<div align="center">
-
-<a href="https://github.com/juhimaru26-coder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!-- Add your other social links here later -->
+<img src="https://komarev.com/ghpvc/?username=juhimaru26-coder&label=PROFILE%20VIEWS&color=00F7FF&style=flat" />
 
 <br><br>
 
-### Thanks for visiting my profile 💜
-
-**Keep Learning • Keep Building • Keep Debugging 🚀**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=juhimaru26-coder&label=Profile%20Views&color=00F7FF&style=flat" />
+`KEEP LEARNING • KEEP BUILDING • KEEP DEBUGGING`
 
 </div>
