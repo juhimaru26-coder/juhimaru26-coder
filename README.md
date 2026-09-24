@@ -4,7 +4,7 @@
 
 <br>
 
-# `JUHI // SYSTEM`
+# `JUHI`
 
 ### `Frontend Developer in Progress`
 
@@ -195,8 +195,8 @@ Personal portfolio website created while learning HTML & CSS.
 
 `HTML` `CSS`
 
-**[ LIVE ↗ ](YOUR_PORTFOLIO_LIVE_LINK)**
-**[ CODE ↗ ](YOUR_PORTFOLIO_GITHUB_LINK)**
+**[ LIVE ↗ ](https://juhimaru26-coder.github.io/Portfolio-CSS/)**
+**[ CODE ↗ ](https://github.com/juhimaru26-coder/Portfolio-CSS)**
 
 </td>
 
@@ -211,7 +211,7 @@ A creative Teacher's Day project.
 `HTML` `CSS` `TAILWIND`
 
 **[ LIVE ↗ ](https://juhimaru26-coder.github.io/Teacher-Day/)**
-**[ CODE ↗ ](YOUR_TEACHER_DAY_GITHUB_LINK)**
+**[ CODE ↗ ](https://github.com/juhimaru26-coder/Teacher-Day)**
 
 </td>
 </tr>
@@ -227,8 +227,8 @@ A JavaScript game built with DOM interaction and game logic.
 
 `JAVASCRIPT` `DOM`
 
-**[ LIVE ↗ ](YOUR_TICTACTOE_LIVE_LINK)**
-**[ CODE ↗ ](YOUR_TICTACTOE_GITHUB_LINK)**
+**[ LIVE ↗ ]( https://juhimaru26-coder.github.io/Tic-Tac-Toe-Game/)**
+**[ CODE ↗ ](https://github.com/juhimaru26-coder/Tic-Tac-Toe-Game)**
 
 </td>
 
@@ -242,8 +242,8 @@ Todo application created to practice JavaScript and DOM logic.
 
 `JAVASCRIPT` `DOM`
 
-**[ LIVE ↗ ](YOUR_TODO_LIVE_LINK)**
-**[ CODE ↗ ](YOUR_TODO_GITHUB_LINK)**
+**[ LIVE ↗ ]( https://juhimaru26-coder.github.io/Todo-App/)**
+**[ CODE ↗ ](https://github.com/juhimaru26-coder/Todo-App)**
 
 </td>
 </tr>
@@ -259,8 +259,8 @@ Calculator created to practice events, buttons and JavaScript logic.
 
 `JAVASCRIPT` `DOM`
 
-**[ LIVE ↗ ](YOUR_CALCULATOR_LIVE_LINK)**
-**[ CODE ↗ ](YOUR_CALCULATOR_GITHUB_LINK)**
+**[ LIVE ↗ ](https://github.com/juhimaru26-coder/Calculator)**
+**[ CODE ↗ ](https://github.com/juhimaru26-coder/Calculator)**
 
 </td>
 
@@ -274,8 +274,8 @@ Quiz application for practicing JavaScript and DOM concepts.
 
 `JAVASCRIPT` `DOM`
 
-**[ LIVE ↗ ](YOUR_QUIZ_LIVE_LINK)**
-**[ CODE ↗ ](YOUR_QUIZ_GITHUB_LINK)**
+**[ LIVE ↗ ](https://juhimaru26-coder.github.io/JavaScript-Quiz-App/)**
+**[ CODE ↗ ](https://github.com/juhimaru26-coder/JavaScript-Quiz-App)**
 
 </td>
 </tr>
@@ -426,23 +426,9 @@ Quiz application for practicing JavaScript and DOM concepts.
 
 ---
 
-<div align="center">
 
-`08 // TELEMETRY`
 
-# `📊 GITHUB ACTIVITY`
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=juhimaru26-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=00F7FF&icon_color=8B5CF6&text_color=ffffff" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhimaru26-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=00F7FF&text_color=ffffff" />
-
-</div>
-
----
 
 <div align="center">
 
@@ -471,27 +457,9 @@ Quiz application for practicing JavaScript and DOM concepts.
 
 ---
 
-<div align="center">
 
-`10 // BEYOND CODE`
 
-# `🌱 BEYOND CODE`
 
-</div>
-
-```text
-$ cat beyond-code.txt
-
-> learning
-> creating
-> experimenting
-> exploring AI
-> building ideas
-
-STATUS: STILL CURIOUS.
-```
-
----
 
 <div align="center">
 
