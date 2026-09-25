@@ -12,12 +12,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&labelColor=09090b" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-8B5CF6?style=for-the-badge&labelColor=09090b" />
 
 <br><br>
 
-[ `EXPLORE PROJECTS ↓` ](https://github.com/juhimaru26-coder#-projects)
+
 
 </div>
 
@@ -54,27 +52,8 @@ I enjoy understanding how things work, experimenting with JavaScript, and buildi
 
 </td>
 
-<td width="35%">
 
-```text
-┌────────────────────┐
-│  SYSTEM STATUS     │
-├────────────────────┤
-│                    │
-│  ● ONLINE          │
-│                    │
-│  JavaScript        │
-│  DOM               │
-│  Tailwind          │
-│  Web Development   │
-│                    │
-│  MODE              │
-│  BUILDING...       │
-│                    │
-└────────────────────┘
-```
 
-</td>
 </tr>
 </table>
 
@@ -287,172 +266,35 @@ Quiz application for practicing JavaScript and DOM concepts.
 
 `05 // BUILD PATH`
 
-# `🛤️ MY DEVELOPER JOURNEY`
+ 
+                   
+                         
 
-</div>
-
-```text
-                         ┌──────────────┐
-                         │  HTML / CSS  │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │   TAILWIND   │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │ JAVASCRIPT   │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │ DOM & EVENTS │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │   ASYNC JS   │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │    PROJECTS  │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │   NEXT → 🚀  │
-                         └──────────────┘
-```
-
----
 
 <div align="center">
 
 `06 // LEARNING`
 
-# `📡 CURRENTLY LEARNING`
 
-</div>
 
-<table align="center">
-<tr>
-<th>TOPIC</th>
-<th>STATUS</th>
-<th>MODE</th>
-</tr>
 
-<tr>
-<td>HTML / CSS</td>
-<td>🟢</td>
-<td>COMFORTABLE</td>
-</tr>
 
-<tr>
-<td>Tailwind CSS</td>
-<td>🟡</td>
-<td>PRACTICING</td>
-</tr>
 
-<tr>
-<td>JavaScript</td>
-<td>🟡</td>
-<td>LEARNING</td>
-</tr>
 
-<tr>
-<td>DOM & Events</td>
-<td>🟡</td>
-<td>PRACTICING</td>
-</tr>
 
-<tr>
-<td>Async JavaScript</td>
-<td>🟡</td>
-<td>LEARNING</td>
-</tr>
-
-<tr>
-<td>APIs</td>
-<td>🔵</td>
-<td>EXPLORING</td>
-</tr>
-
-<tr>
-<td>React</td>
-<td>⚪</td>
-<td>NEXT</td>
-</tr>
-
-</table>
-
----
 
 <div align="center">
 
 `07 // WORKFLOW`
 
-# `🧩 HOW I CODE`
 
-</div>
-
-```text
-                    ┌───────────┐
-                    │   THINK   │
-                    └─────┬─────┘
-                          ↓
-                    ┌───────────┐
-                    │   BUILD   │
-                    └─────┬─────┘
-                          ↓
-                    ┌───────────┐
-                    │   BREAK   │
-                    └─────┬─────┘
-                          ↓
-                    ┌───────────┐
-                    │   DEBUG   │
-                    └─────┬─────┘
-                          ↓
-                    ┌───────────┐
-                    │UNDERSTAND │
-                    └─────┬─────┘
-                          ↓
-                    ┌───────────┐
-                    │  REPEAT ↻ │
-                    └───────────┘
-```
-
----
+            
 
 
 
 
 
-<div align="center">
 
-`09 // MISSION CONTROL`
-
-# `🎯 CURRENT MISSION`
-
-</div>
-
-```text
-┌────────────────────────────────────────────────┐
-│                                                │
-│  [✓] Learn Web Development Fundamentals       │
-│  [✓] Practice JavaScript                      │
-│  [✓] Build Real Projects                      │
-│  [◐] Improve Problem Solving                  │
-│  [ ] Build Bigger Applications                │
-│  [ ] Learn React                               │
-│  [ ] Explore APIs Deeply                      │
-│  [ ] Become a Better Developer                │
-│                                                │
-│                 STATUS: ACTIVE                 │
-│                                                │
-└────────────────────────────────────────────────┘
 ```
 
 ---
