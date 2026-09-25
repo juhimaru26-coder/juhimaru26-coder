@@ -23,15 +23,8 @@
 
 <div align="center">
 
-`01 // IDENTITY`
 
-# `WHO AM I?`
 
-</div>
-
-<table>
-<tr>
-<td width="65%">
 
 ### `> hello_world.exe`
 
@@ -61,7 +54,7 @@ I enjoy understanding how things work, experimenting with JavaScript, and buildi
 
 <div align="center">
 
-`02 // STACK`
+
 
 # `TECH STACK`
 
@@ -80,81 +73,19 @@ I enjoy understanding how things work, experimenting with JavaScript, and buildi
 
 <div align="center">
 
-`03 // LAB`
 
-# `🧪 JUHI'S DEV LAB`
 
-### `EXPERIMENTS • PRACTICE • DEBUGGING`
 
-</div>
 
-<table>
-<tr>
-<td align="center" width="50%">
 
-### `#01`
 
-## DOM
 
-`SELECTORS`
-`ELEMENTS`
-`MANIPULATION`
 
-**● COMPLETED**
 
-</td>
-
-<td align="center" width="50%">
-
-### `#02`
-
-## EVENTS
-
-`CLICK`
-`INPUT`
-`CHANGE`
-
-**● COMPLETED**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### `#03`
-
-## ASYNC JS
-
-`PROMISES`
-`ASYNC / AWAIT`
-`EVENT LOOP`
-
-**◐ LEARNING**
-
-</td>
-
-<td align="center">
-
-### `#04`
-
-## APIs
-
-`FETCH`
-`JSON`
-`SERVER DATA`
-
-**○ EXPLORING**
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
-`04 // PROJECTS`
+
 
 # `🚀 THINGS I'VE BUILT`
 
@@ -259,43 +190,4 @@ Quiz application for practicing JavaScript and DOM concepts.
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-`05 // BUILD PATH`
-
- 
-                   
-                         
-
-
-<div align="center">
-
-`06 // LEARNING`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-
----
-
-
-
-
-
-
-
 
