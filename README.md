@@ -283,13 +283,6 @@ Quiz application for practicing JavaScript and DOM concepts.
 
 
 
-<div align="center">
-
-`07 // WORKFLOW`
-
-
-            
-
 
 
 
@@ -303,37 +296,6 @@ Quiz application for practicing JavaScript and DOM concepts.
 
 
 
-<div align="center">
 
-# `💭 A LITTLE NOTE`
 
-> I don't want to just learn how to write code.
-> **I want to understand why the code works.**
 
-</div>
-
----
-
-<div align="center">
-
-`SYSTEM // END`
-
-<br>
-
-### `Let's build something cool.`
-
-<br>
-
-<a href="https://github.com/juhimaru26-coder">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=juhimaru26-coder&label=PROFILE%20VIEWS&color=00F7FF&style=flat" />
-
-<br><br>
-
-`KEEP LEARNING • KEEP BUILDING • KEEP DEBUGGING`
-
-</div>
