@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**juhimaru26-coder/juhimaru26-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Juhi
 
-Here are some ideas to get you started:
+### Aspiring Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning web development and building projects to improve my skills.
+
+- 🌱 Currently learning JavaScript and React
+- 💻 Skills: HTML, CSS, JavaScript
+- 🚀 Building projects and learning new technologies
+- 🎯 Goal: Become a Frontend Developer
+
+### 🛠️ Technologies & Tools
+
+HTML | CSS | JavaScript | Git | GitHub
+
